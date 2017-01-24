@@ -1,0 +1,2 @@
+# myApp
+Pruebas con meteor
